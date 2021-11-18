@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Stone | E-GLAMOR</title>
+    <link>https://glamor.cs.brown.edu//author/peter-stone/</link>
+      <atom:link href="https://glamor.cs.brown.edu//author/peter-stone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Stone</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Peter Stone</title>
+      <link>https://glamor.cs.brown.edu//author/peter-stone/</link>
+    </image>
+    
+    <item>
+      <title>Book announcement: autonomous bidding agents</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalssigecom-wellman-gs-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalssigecom-wellman-gs-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous bidding agents - strategies and lessons from the trading agent competition</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-booksdaglib-0018264/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-booksdaglib-0018264/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The First International Trading Agent Competition: Autonomous Bidding Agents</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalsecr-stone-g-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsecr-stone-g-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest Editors&#39; Introduction: Agents and Markets</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalsexpert-greenwald-js-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsexpert-greenwald-js-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2001 Trading Agent Competition</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalselectronicmarkets-wellman-gsw-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalselectronicmarkets-wellman-gsw-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2001 Trading Agent Competition</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-confaaai-wellman-gsw-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-confaaai-wellman-gsw-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Bidding Agents in the Trading Agent Competition</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalsinternet-greenwald-s-01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsinternet-greenwald-s-01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

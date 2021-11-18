@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael P. Wellman | E-GLAMOR</title>
+    <link>https://glamor.cs.brown.edu//author/michael-p.-wellman/</link>
+      <atom:link href="https://glamor.cs.brown.edu//author/michael-p.-wellman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael P. Wellman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Michael P. Wellman</title>
+      <link>https://glamor.cs.brown.edu//author/michael-p.-wellman/</link>
+    </image>
+    
+    <item>
+      <title>Self-confirming price-prediction strategies for simultaneous one-shot auctions</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalsgeb-wellman-sg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsgeb-wellman-sg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for Price Dependencies in Simultaneous Sealed-Bid Auctions</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-confaaai-mayer-sgw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-confaaai-mayer-sgw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for price dependencies in simultaneous sealed-bid auctions</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-confsigecom-mayer-sgw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-confsigecom-mayer-sgw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Confirming Price Prediction Strategies for Simultaneous One-Shot Auctions</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-confuai-wellman-sg-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-confuai-wellman-sg-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Confirming Price Prediction Strategies for Simultaneous One-Shot Auctions</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalscorrabs-1210-4915/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalscorrabs-1210-4915/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book announcement: autonomous bidding agents</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalssigecom-wellman-gs-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalssigecom-wellman-gs-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous bidding agents - strategies and lessons from the trading agent competition</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-booksdaglib-0018264/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-booksdaglib-0018264/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2001 Trading Agent Competition</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalselectronicmarkets-wellman-gsw-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalselectronicmarkets-wellman-gsw-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2001 Trading Agent Competition</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-confaaai-wellman-gsw-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-confaaai-wellman-gsw-02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

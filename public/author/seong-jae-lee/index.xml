@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seong Jae Lee | E-GLAMOR</title>
+    <link>https://glamor.cs.brown.edu//author/seong-jae-lee/</link>
+      <atom:link href="https://glamor.cs.brown.edu//author/seong-jae-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seong Jae Lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Seong Jae Lee</title>
+      <link>https://glamor.cs.brown.edu//author/seong-jae-lee/</link>
+    </image>
+    
+    <item>
+      <title>RoxyBot-06: Stochastic Prediction and Optimization in TAC Travel</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalscorr-greenwald-ln-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalscorr-greenwald-ln-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoxyBot-06: Stochastic Prediction and Optimization in TAC Travel</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-journalsjair-greenwald-ln-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsjair-greenwald-ln-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bidding Heuristics for Simultaneous Auctions: Lessons from TAC Travel</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-confamec-greenwald-nl-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-confamec-greenwald-nl-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoxyBot-06: An (SAA)2 TAC Travel Agent</title>
+      <link>https://glamor.cs.brown.edu//publication/dblp-confijcai-lee-gn-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://glamor.cs.brown.edu//publication/dblp-confijcai-lee-gn-07/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
