@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Takehiro Oyakawa | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/takehiro-oyakawa/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/takehiro-oyakawa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/takehiro-oyakawa/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/takehiro-oyakawa/index.xml" rel="self" type="application/rss+xml" />
     <description>Takehiro Oyakawa</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Takehiro Oyakawa</title>
-      <link>https://glamor.cs.brown.edu//author/takehiro-oyakawa/</link>
+      <link>https://glamor.cs.brown.edu/author/takehiro-oyakawa/</link>
     </image>
     
     <item>
       <title>Fast Algorithms for Computing Interim Allocations in Single-Parameter Environments</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confprima-greenwald-lo-18/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confprima-greenwald-lo-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confprima-greenwald-lo-18/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confprima-greenwald-lo-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Revenue-Maximizing Mechanisms Assuming Convex Costs</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confsagt-greenwald-os-18/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confsagt-greenwald-os-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confsagt-greenwald-os-18/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confsagt-greenwald-os-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple vs Optimal Contests with Convex Costs</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confwww-greenwald-os-18/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confwww-greenwald-os-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confwww-greenwald-os-18/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confwww-greenwald-os-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple vs Optimal Mechanisms in Auctions with Convex Payments</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-journalscorr-greenwald-os-17/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-os-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-journalscorr-greenwald-os-17/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-os-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Auctions with Convex Perceived Payments</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-journalscorr-greenwald-os-16/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-os-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-journalscorr-greenwald-os-16/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-os-16/</guid>
       <description></description>
     </item>
     

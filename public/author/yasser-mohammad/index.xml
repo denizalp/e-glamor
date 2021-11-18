@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yasser Mohammad | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/yasser-mohammad/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/yasser-mohammad/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/yasser-mohammad/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/yasser-mohammad/index.xml" rel="self" type="application/rss+xml" />
     <description>Yasser Mohammad</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Yasser Mohammad</title>
-      <link>https://glamor.cs.brown.edu//author/yasser-mohammad/</link>
+      <link>https://glamor.cs.brown.edu/author/yasser-mohammad/</link>
     </image>
     
     <item>
       <title>Empirical Mechanism Design: Designing Mechanisms from Data</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confuai-viqueira-cmg-19/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confuai-viqueira-cmg-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confuai-viqueira-cmg-19/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confuai-viqueira-cmg-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supply Chain Management World - A Benchmark Environment for Situated Negotiations</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confprima-mohammad-vagnm-19/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confprima-mohammad-vagnm-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confprima-mohammad-vagnm-19/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confprima-mohammad-vagnm-19/</guid>
       <description></description>
     </item>
     

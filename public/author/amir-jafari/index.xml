@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amir Jafari | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/amir-jafari/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/amir-jafari/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/amir-jafari/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/amir-jafari/index.xml" rel="self" type="application/rss+xml" />
     <description>Amir Jafari</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Amir Jafari</title>
-      <link>https://glamor.cs.brown.edu//author/amir-jafari/</link>
+      <link>https://glamor.cs.brown.edu/author/amir-jafari/</link>
     </image>
     
     <item>
       <title>A General Class of No-Regret Learning Algorithms and Game-Theoretic Equilibria</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confcolt-greenwald-j-03/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confcolt-greenwald-j-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confcolt-greenwald-j-03/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confcolt-greenwald-j-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On No-Regret Learning, Fictitious Play, and Nash Equilibrium</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-conficml-jafari-gge-01/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-conficml-jafari-gge-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-conficml-jafari-gge-01/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-conficml-jafari-gge-01/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyrus Cousins | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/cyrus-cousins/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/cyrus-cousins/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/cyrus-cousins/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/cyrus-cousins/index.xml" rel="self" type="application/rss+xml" />
     <description>Cyrus Cousins</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Cyrus Cousins</title>
-      <link>https://glamor.cs.brown.edu//author/cyrus-cousins/</link>
+      <link>https://glamor.cs.brown.edu/author/cyrus-cousins/</link>
     </image>
     
     <item>
       <title>Empirical Mechanism Design: Designing Mechanisms from Data</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confuai-viqueira-cmg-19/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confuai-viqueira-cmg-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confuai-viqueira-cmg-19/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confuai-viqueira-cmg-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Equilibria of Simulation-Based Games</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-journalscorrabs-1905-13379/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-journalscorrabs-1905-13379/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-journalscorrabs-1905-13379/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-journalscorrabs-1905-13379/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Simulation-Based Games from Data</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confatal-viqueira-gcu-19/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confatal-viqueira-gcu-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confatal-viqueira-gcu-19/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confatal-viqueira-gcu-19/</guid>
       <description></description>
     </item>
     

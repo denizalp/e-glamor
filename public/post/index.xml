@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//post/</link>
-      <atom:link href="https://glamor.cs.brown.edu//post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/post/</link>
+      <atom:link href="https://glamor.cs.brown.edu/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 22:46:51 -0500</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://glamor.cs.brown.edu//post/</link>
+      <link>https://glamor.cs.brown.edu/post/</link>
     </image>
     
     <item>
       <title>2020 12 01 R Rmarkdown</title>
-      <link>https://glamor.cs.brown.edu//post/2020-12-01-r-rmarkdown/</link>
+      <link>https://glamor.cs.brown.edu/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Wed, 17 Nov 2021 22:46:51 -0500</pubDate>
-      <guid>https://glamor.cs.brown.edu//post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://glamor.cs.brown.edu/post/2020-12-01-r-rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://glamor.cs.brown.edu//post/getting-started/</link>
+      <link>https://glamor.cs.brown.edu/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//post/getting-started/</guid>
+      <guid>https://glamor.cs.brown.edu/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -99,9 +99,9 @@
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://glamor.cs.brown.edu//post/writing-technical-content/</link>
+      <link>https://glamor.cs.brown.edu/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//post/writing-technical-content/</guid>
+      <guid>https://glamor.cs.brown.edu/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -125,7 +125,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-624973581&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-128369745&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -135,7 +135,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-624973581&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-128369745&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -363,9 +363,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://glamor.cs.brown.edu//post/jupyter/</link>
+      <link>https://glamor.cs.brown.edu/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//post/jupyter/</guid>
+      <guid>https://glamor.cs.brown.edu/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brandon A. Mayer | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/brandon-a.-mayer/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/brandon-a.-mayer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/brandon-a.-mayer/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/brandon-a.-mayer/index.xml" rel="self" type="application/rss+xml" />
     <description>Brandon A. Mayer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Brandon A. Mayer</title>
-      <link>https://glamor.cs.brown.edu//author/brandon-a.-mayer/</link>
+      <link>https://glamor.cs.brown.edu/author/brandon-a.-mayer/</link>
     </image>
     
     <item>
       <title>Accounting for Price Dependencies in Simultaneous Sealed-Bid Auctions</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confaaai-mayer-sgw-13/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confaaai-mayer-sgw-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confaaai-mayer-sgw-13/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confaaai-mayer-sgw-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accounting for price dependencies in simultaneous sealed-bid auctions</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confsigecom-mayer-sgw-13/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confsigecom-mayer-sgw-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confsigecom-mayer-sgw-13/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confsigecom-mayer-sgw-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The price of independence in simultaneous auctions</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confatal-mayer-sg-13/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confatal-mayer-sg-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confatal-mayer-sg-13/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confatal-mayer-sg-13/</guid>
       <description></description>
     </item>
     

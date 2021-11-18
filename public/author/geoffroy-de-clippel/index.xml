@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geoffroy de Clippel | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/geoffroy-de-clippel/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/geoffroy-de-clippel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/geoffroy-de-clippel/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/geoffroy-de-clippel/index.xml" rel="self" type="application/rss+xml" />
     <description>Geoffroy de Clippel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Geoffroy de Clippel</title>
-      <link>https://glamor.cs.brown.edu//author/geoffroy-de-clippel/</link>
+      <link>https://glamor.cs.brown.edu/author/geoffroy-de-clippel/</link>
     </image>
     
     <item>
       <title>Destroy to save</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-journalsgeb-clippel-npgj-14/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsgeb-clippel-npgj-14/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Destroy to save</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confsigecom-clippel-ng-09/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confsigecom-clippel-ng-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confsigecom-clippel-ng-09/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confsigecom-clippel-ng-09/</guid>
       <description></description>
     </item>
     

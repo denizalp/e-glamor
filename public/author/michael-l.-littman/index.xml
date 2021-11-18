@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael L. Littman | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/michael-l.-littman/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/michael-l.-littman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/michael-l.-littman/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/michael-l.-littman/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael L. Littman</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Michael L. Littman</title>
-      <link>https://glamor.cs.brown.edu//author/michael-l.-littman/</link>
+      <link>https://glamor.cs.brown.edu/author/michael-l.-littman/</link>
     </image>
     
     <item>
       <title>Feature-based Joint Planning and Norm Learning in Collaborative Games</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confcogsci-ho-mglhtbtka-16/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confcogsci-ho-mglhtbtka-16/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coco-Q: Learning in Stochastic Games with Side Payments</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-conficml-sodomka-hlg-13/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-conficml-sodomka-hlg-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-conficml-sodomka-hlg-13/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-conficml-sodomka-hlg-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hierarchy of prescriptive goals for multiagent learning</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-journalsai-zinkevich-gl-07/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-journalsai-zinkevich-gl-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsai-zinkevich-gl-07/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsai-zinkevich-gl-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to the special issue on learning and computational game theory</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-journalsml-greenwald-l-07/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-journalsml-greenwald-l-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsml-greenwald-l-07/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsml-greenwald-l-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyclic Equilibria in Markov Games</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confnips-zinkevich-gl-05/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confnips-zinkevich-gl-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confnips-zinkevich-gl-05/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confnips-zinkevich-gl-05/</guid>
       <description></description>
     </item>
     

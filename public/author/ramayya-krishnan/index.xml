@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ramayya Krishnan | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/ramayya-krishnan/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/ramayya-krishnan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/ramayya-krishnan/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/ramayya-krishnan/index.xml" rel="self" type="application/rss+xml" />
     <description>Ramayya Krishnan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Ramayya Krishnan</title>
-      <link>https://glamor.cs.brown.edu//author/ramayya-krishnan/</link>
+      <link>https://glamor.cs.brown.edu/author/ramayya-krishnan/</link>
     </image>
     
     <item>
       <title>On Evaluating Information Revelation Policies in Procurement Auctions: A Markov Decision Process Approach</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-journalsisr-greenwald-kk-10/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-journalsisr-greenwald-kk-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsisr-greenwald-kk-10/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsisr-greenwald-kk-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of Information-Revelation Policies Under Market-Structure Uncertainty</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-journalsmansci-arora-gkk-07/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-journalsmansci-arora-gkk-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsmansci-arora-gkk-07/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsmansci-arora-gkk-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Computational Approach to Compare Information Revelation Policies</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-conficis-greenwald-kk-03/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-conficis-greenwald-kk-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-conficis-greenwald-kk-03/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-conficis-greenwald-kk-03/</guid>
       <description></description>
     </item>
     

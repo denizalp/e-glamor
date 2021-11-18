@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mingyu Guo | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/mingyu-guo/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/mingyu-guo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/mingyu-guo/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/mingyu-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingyu Guo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Mingyu Guo</title>
-      <link>https://glamor.cs.brown.edu//author/mingyu-guo/</link>
+      <link>https://glamor.cs.brown.edu/author/mingyu-guo/</link>
     </image>
     
     <item>
       <title>Budget-Balanced and Nearly Efficient Randomized Mechanisms: Public Goods and beyond</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confwine-guo-ncgj-11/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confwine-guo-ncgj-11/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric Stix | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/eric-stix/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/eric-stix/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/eric-stix/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/eric-stix/index.xml" rel="self" type="application/rss+xml" />
     <description>Eric Stix</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Eric Stix</title>
-      <link>https://glamor.cs.brown.edu//author/eric-stix/</link>
+      <link>https://glamor.cs.brown.edu/author/eric-stix/</link>
     </image>
     
     <item>
       <title>An Empirical Analysis of QuiBids&#39; Penny Auctions</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confamec-greenwald-ssss-14/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confamec-greenwald-ssss-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confamec-greenwald-ssss-14/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confamec-greenwald-ssss-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical Analysis of Auctioneer Profitability in QuiBids Penny Auctions</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-confaaai-greenwald-ssss-13/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-confaaai-greenwald-ssss-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-confaaai-greenwald-ssss-13/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-confaaai-greenwald-ssss-13/</guid>
       <description></description>
     </item>
     

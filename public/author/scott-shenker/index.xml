@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Shenker | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu//author/scott-shenker/</link>
-      <atom:link href="https://glamor.cs.brown.edu//author/scott-shenker/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glamor.cs.brown.edu/author/scott-shenker/</link>
+      <atom:link href="https://glamor.cs.brown.edu/author/scott-shenker/index.xml" rel="self" type="application/rss+xml" />
     <description>Scott Shenker</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Scott Shenker</title>
-      <link>https://glamor.cs.brown.edu//author/scott-shenker/</link>
+      <link>https://glamor.cs.brown.edu/author/scott-shenker/</link>
     </image>
     
     <item>
       <title>Learning in Network Contexts: Experimental Results from Simulations</title>
-      <link>https://glamor.cs.brown.edu//publication/dblp-journalsgeb-greenwald-fs-01/</link>
+      <link>https://glamor.cs.brown.edu/publication/dblp-journalsgeb-greenwald-fs-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu//publication/dblp-journalsgeb-greenwald-fs-01/</guid>
+      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsgeb-greenwald-fs-01/</guid>
       <description></description>
     </item>
     
