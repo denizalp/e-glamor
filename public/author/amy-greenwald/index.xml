@@ -5,12 +5,92 @@
     <link>/author/amy-greenwald/</link>
       <atom:link href="/author/amy-greenwald/index.xml" rel="self" type="application/rss+xml" />
     <description>Amy Greenwald</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Amy Greenwald</title>
       <link>/author/amy-greenwald/</link>
     </image>
+    
+    <item>
+      <title>A Dynamic Program for Computing the Joint Cumulative Distribution Function of Order Statistics</title>
+      <link>/publication/dblp-confacda-galgana-sgo-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confacda-galgana-sgo-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dynamic Programming Algorithm to Compute Joint Distribution of Order Statistics on Graphs</title>
+      <link>/publication/dblp-journalscorrabs-2111-10939/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2111-10939/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex-Concave Min-Max Stackelberg Games</title>
+      <link>/publication/dblp-journalscorrabs-2110-05192/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2110-05192/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games</title>
+      <link>/publication/dblp-journalscorrabs-2102-06973/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2102-06973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Competitive Equilibria in Noisy Combinatorial Markets</title>
+      <link>/publication/dblp-confatal-viqueira-cg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-viqueira-cg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Competitive Equilibria in Noisy Combinatorial Markets</title>
+      <link>/publication/dblp-journalscorrabs-2101-09551/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2101-09551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tâtonnement Beyond Constant Elasticity of Substitution</title>
+      <link>/publication/dblp-journalscorrabs-2107-08153/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2107-08153/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindsight and Sequential Rationality of Correlated Play</title>
+      <link>/publication/dblp-journalscorrabs-2012-05874/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2012-05874/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Algorithms for Learning Equilibria in Simulation-Based Games</title>
+      <link>/publication/dblp-confatal-viqueira-cg-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-viqueira-cg-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NegMAS: A Platform for Automated Negotiations</title>
+      <link>/publication/dblp-confprima-mohammad-ng-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confprima-mohammad-ng-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Artificial Intelligence for Social Good</title>

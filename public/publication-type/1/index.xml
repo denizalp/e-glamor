@@ -5,12 +5,60 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A Dynamic Program for Computing the Joint Cumulative Distribution Function of Order Statistics</title>
+      <link>/publication/dblp-confacda-galgana-sgo-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confacda-galgana-sgo-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games</title>
+      <link>/publication/dblp-conficml-morrill-dlwbg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-conficml-morrill-dlwbg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindsight and Sequential Rationality of Correlated Play</title>
+      <link>/publication/dblp-confaaai-morrill-dslwgb-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confaaai-morrill-dslwgb-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Competitive Equilibria in Noisy Combinatorial Markets</title>
+      <link>/publication/dblp-confatal-viqueira-cg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-viqueira-cg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Algorithms for Learning Equilibria in Simulation-Based Games</title>
+      <link>/publication/dblp-confatal-viqueira-cg-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-viqueira-cg-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NegMAS: A Platform for Automated Negotiations</title>
+      <link>/publication/dblp-confprima-mohammad-ng-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confprima-mohammad-ng-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Empirical Mechanism Design: Designing Mechanisms from Data</title>

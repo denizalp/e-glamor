@@ -1,13 +1,41 @@
 ---
-title: "Shopbot Economics"
-date: 1999-01-01
-publishDate: 2020-01-07T18:46:32.218046Z
-authors: ["Jeffrey O. Kephart", "Amy Greenwald"]
-publication_types: ["1"]
-abstract: ""
-featured: false
-publication: "*Symbolic and Quantitative Approaches to Reasoning and Uncertainty, European Conference, ECSQARU'99, London, UK, July 5-9, 1999, Proceedings*"
-url_pdf: "https://doi.org/10.1007/3-540-48747-6_20"
-doi: "10.1007/3-540-48747-6_20"
----
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: Shopbot Economics
+subtitle: ''
+summary: ''
+authors:
+- Jeffrey O. Kephart
+- Amy Greenwald
+tags: []
+categories: []
+date: '1999-01-01'
+lastmod: 2021-12-01T18:30:42-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-12-01T23:30:42.172992Z'
+publication_types:
+- '1'
+abstract: ''
+publication: "*Symbolic and Quantitative Approaches to Reasoning and Uncertainty,\
+  \ European Conference, ECSQARU'99, London, UK, July 5-9, 1999, Proceedings*"
+doi: 10.1007/3-540-48747-6_20
+links:
+- name: URL
+  url: https://doi.org/10.1007/3-540-48747-6_20
+---

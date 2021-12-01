@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amy R. Greenwald | E-GLAMOR</title>
+    <link>/author/amy-r.-greenwald/</link>
+      <atom:link href="/author/amy-r.-greenwald/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amy R. Greenwald</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Amy R. Greenwald</title>
+      <link>/author/amy-r.-greenwald/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games</title>
+      <link>/publication/dblp-conficml-morrill-dlwbg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-conficml-morrill-dlwbg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindsight and Sequential Rationality of Correlated Play</title>
+      <link>/publication/dblp-confaaai-morrill-dslwgb-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confaaai-morrill-dslwgb-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Partially Observable History Process</title>
+      <link>/publication/dblp-journalscorrabs-2111-08102/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2111-08102/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

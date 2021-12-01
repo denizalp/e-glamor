@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James R. Wright | E-GLAMOR</title>
+    <link>/author/james-r.-wright/</link>
+      <atom:link href="/author/james-r.-wright/index.xml" rel="self" type="application/rss+xml" />
+    <description>James R. Wright</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>James R. Wright</title>
+      <link>/author/james-r.-wright/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games</title>
+      <link>/publication/dblp-conficml-morrill-dlwbg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-conficml-morrill-dlwbg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games</title>
+      <link>/publication/dblp-journalscorrabs-2102-06973/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2102-06973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindsight and Sequential Rationality of Correlated Play</title>
+      <link>/publication/dblp-confaaai-morrill-dslwgb-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confaaai-morrill-dslwgb-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindsight and Sequential Rationality of Correlated Play</title>
+      <link>/publication/dblp-journalscorrabs-2012-05874/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2012-05874/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

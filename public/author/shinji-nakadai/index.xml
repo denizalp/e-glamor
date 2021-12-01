@@ -5,12 +5,20 @@
     <link>/author/shinji-nakadai/</link>
       <atom:link href="/author/shinji-nakadai/index.xml" rel="self" type="application/rss+xml" />
     <description>Shinji Nakadai</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Shinji Nakadai</title>
       <link>/author/shinji-nakadai/</link>
     </image>
+    
+    <item>
+      <title>NegMAS: A Platform for Automated Negotiations</title>
+      <link>/publication/dblp-confprima-mohammad-ng-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confprima-mohammad-ng-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Supply Chain Management World - A Benchmark Environment for Situated Negotiations</title>

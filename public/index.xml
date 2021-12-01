@@ -136,6 +136,86 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>A Dynamic Program for Computing the Joint Cumulative Distribution Function of Order Statistics</title>
+      <link>/publication/dblp-confacda-galgana-sgo-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confacda-galgana-sgo-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dynamic Programming Algorithm to Compute Joint Distribution of Order Statistics on Graphs</title>
+      <link>/publication/dblp-journalscorrabs-2111-10939/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2111-10939/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex-Concave Min-Max Stackelberg Games</title>
+      <link>/publication/dblp-journalscorrabs-2110-05192/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2110-05192/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games</title>
+      <link>/publication/dblp-conficml-morrill-dlwbg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-conficml-morrill-dlwbg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games</title>
+      <link>/publication/dblp-journalscorrabs-2102-06973/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2102-06973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindsight and Sequential Rationality of Correlated Play</title>
+      <link>/publication/dblp-confaaai-morrill-dslwgb-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confaaai-morrill-dslwgb-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Competitive Equilibria in Noisy Combinatorial Markets</title>
+      <link>/publication/dblp-confatal-viqueira-cg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-viqueira-cg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Competitive Equilibria in Noisy Combinatorial Markets</title>
+      <link>/publication/dblp-journalscorrabs-2101-09551/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2101-09551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Partially Observable History Process</title>
+      <link>/publication/dblp-journalscorrabs-2111-08102/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2111-08102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tâtonnement Beyond Constant Elasticity of Substitution</title>
+      <link>/publication/dblp-journalscorrabs-2107-08153/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2107-08153/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -213,6 +293,30 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Hindsight and Sequential Rationality of Correlated Play</title>
+      <link>/publication/dblp-journalscorrabs-2012-05874/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2012-05874/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Algorithms for Learning Equilibria in Simulation-Based Games</title>
+      <link>/publication/dblp-confatal-viqueira-cg-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-viqueira-cg-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NegMAS: A Platform for Automated Negotiations</title>
+      <link>/publication/dblp-confprima-mohammad-ng-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confprima-mohammad-ng-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -240,7 +344,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-918435726&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-286974135&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -250,7 +354,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-918435726&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-286974135&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -5,12 +5,44 @@
     <link>/author/enrique-areyan-viqueira/</link>
       <atom:link href="/author/enrique-areyan-viqueira/index.xml" rel="self" type="application/rss+xml" />
     <description>Enrique Areyan Viqueira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Enrique Areyan Viqueira</title>
       <link>/author/enrique-areyan-viqueira/</link>
     </image>
+    
+    <item>
+      <title>Learning Competitive Equilibria in Noisy Combinatorial Markets</title>
+      <link>/publication/dblp-confatal-viqueira-cg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-viqueira-cg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Competitive Equilibria in Noisy Combinatorial Markets</title>
+      <link>/publication/dblp-journalscorrabs-2101-09551/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2101-09551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tâtonnement Beyond Constant Elasticity of Substitution</title>
+      <link>/publication/dblp-journalscorrabs-2107-08153/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2107-08153/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Algorithms for Learning Equilibria in Simulation-Based Games</title>
+      <link>/publication/dblp-confatal-viqueira-cg-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-viqueira-cg-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Empirical Mechanism Design: Designing Mechanisms from Data</title>
