@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keith Hall | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/keith-hall/</link>
-      <atom:link href="glamor.cs.brown.edu/author/keith-hall/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/keith-hall/</link>
+      <atom:link href="/author/keith-hall/index.xml" rel="self" type="application/rss+xml" />
     <description>Keith Hall</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Keith Hall</title>
-      <link>glamor.cs.brown.edu/author/keith-hall/</link>
+      <link>/author/keith-hall/</link>
     </image>
     
     <item>
       <title>Correlated Q-Learning</title>
-      <link>glamor.cs.brown.edu/publication/dblp-conficml-greenwald-h-03/</link>
+      <link>/publication/dblp-conficml-greenwald-h-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-conficml-greenwald-h-03/</guid>
+      <guid>/publication/dblp-conficml-greenwald-h-03/</guid>
       <description></description>
     </item>
     

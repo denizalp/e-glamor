@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Victor Naroditskiy | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/victor-naroditskiy/</link>
-      <atom:link href="glamor.cs.brown.edu/author/victor-naroditskiy/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/victor-naroditskiy/</link>
+      <atom:link href="/author/victor-naroditskiy/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor Naroditskiy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Victor Naroditskiy</title>
-      <link>glamor.cs.brown.edu/author/victor-naroditskiy/</link>
+      <link>/author/victor-naroditskiy/</link>
     </image>
     
     <item>
       <title>On Approximate Welfare- and Revenue-Maximizing Equilibria for Size-Interchangeable Bidders</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confatal-viqueira-gn-17/</link>
+      <link>/publication/dblp-confatal-viqueira-gn-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confatal-viqueira-gn-17/</guid>
+      <guid>/publication/dblp-confatal-viqueira-gn-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Approximate Welfare- and Revenue-Maximizing Equilibria for Size-Interchangeable Bidders</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1708-03097/</link>
+      <link>/publication/dblp-journalscorrabs-1708-03097/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1708-03097/</guid>
+      <guid>/publication/dblp-journalscorrabs-1708-03097/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Revenue-Maximizing Walrasian Equilibria for Size-Interchangeable Bidders</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confamec-viqueira-gnc-16/</link>
+      <link>/publication/dblp-confamec-viqueira-gnc-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confamec-viqueira-gnc-16/</guid>
+      <guid>/publication/dblp-confamec-viqueira-gnc-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Algorithm for the Penalized Multiple Choice Knapsack Problem</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confecai-hilliard-gn-14/</link>
+      <link>/publication/dblp-confecai-hilliard-gn-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confecai-hilliard-gn-14/</guid>
+      <guid>/publication/dblp-confecai-hilliard-gn-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Destroy to save</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</link>
+      <link>/publication/dblp-journalsgeb-clippel-npgj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</guid>
+      <guid>/publication/dblp-journalsgeb-clippel-npgj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RoxyBot-06: Stochastic Prediction and Optimization in TAC Travel</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-ln-14/</link>
+      <link>/publication/dblp-journalscorr-greenwald-ln-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-ln-14/</guid>
+      <guid>/publication/dblp-journalscorr-greenwald-ln-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Budget-Balanced and Nearly Efficient Randomized Mechanisms: Public Goods and beyond</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</link>
+      <link>/publication/dblp-confwine-guo-ncgj-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</guid>
+      <guid>/publication/dblp-confwine-guo-ncgj-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Knapsack-Based Approach to Bidding in Ad Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</link>
+      <link>/publication/dblp-confecai-berg-gns-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</guid>
+      <guid>/publication/dblp-confecai-berg-gns-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Destroy to save</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-clippel-ng-09/</link>
+      <link>/publication/dblp-confsigecom-clippel-ng-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-clippel-ng-09/</guid>
+      <guid>/publication/dblp-confsigecom-clippel-ng-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RoxyBot-06: Stochastic Prediction and Optimization in TAC Travel</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsjair-greenwald-ln-09/</link>
+      <link>/publication/dblp-journalsjair-greenwald-ln-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsjair-greenwald-ln-09/</guid>
+      <guid>/publication/dblp-journalsjair-greenwald-ln-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bidding Heuristics for Simultaneous Auctions: Lessons from TAC Travel</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confamec-greenwald-nl-08/</link>
+      <link>/publication/dblp-confamec-greenwald-nl-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confamec-greenwald-nl-08/</guid>
+      <guid>/publication/dblp-confamec-greenwald-nl-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marginal Bidding: An Application of the Equimarginal Principle to Bidding in TAC SCM</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</link>
+      <link>/publication/dblp-confatal-greenwald-norszc-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</guid>
+      <guid>/publication/dblp-confatal-greenwald-norszc-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RoxyBot-06: An (SAA)2 TAC Travel Agent</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confijcai-lee-gn-07/</link>
+      <link>/publication/dblp-confijcai-lee-gn-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confijcai-lee-gn-07/</guid>
+      <guid>/publication/dblp-confijcai-lee-gn-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Iterated Best-Response to Find Bayes-Nash Equilibria in Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confaaai-naroditskiy-g-07/</link>
+      <link>/publication/dblp-confaaai-naroditskiy-g-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confaaai-naroditskiy-g-07/</guid>
+      <guid>/publication/dblp-confaaai-naroditskiy-g-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heuristics for the deterministic bidding problem</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-n-06/</link>
+      <link>/publication/dblp-journalssigecom-greenwald-n-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-n-06/</guid>
+      <guid>/publication/dblp-journalssigecom-greenwald-n-06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scaling Up the Sample Average Approximation Method for Stochastic Optimization with Applications to Trading Agents</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-gnt-05/</link>
+      <link>/publication/dblp-confijcai-greenwald-gnt-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-gnt-05/</guid>
+      <guid>/publication/dblp-confijcai-greenwald-gnt-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A stochastic programming approach to scheduling in TAC SCM</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-benisch-gnt-04/</link>
+      <link>/publication/dblp-confsigecom-benisch-gnt-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-benisch-gnt-04/</guid>
+      <guid>/publication/dblp-confsigecom-benisch-gnt-04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Botticelli: A Supply Chain Management Agent</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confatal-benisch-gglnt-04/</link>
+      <link>/publication/dblp-confatal-benisch-gglnt-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confatal-benisch-gglnt-04/</guid>
+      <guid>/publication/dblp-confatal-benisch-gglnt-04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Botticelli: a supply chain management agent designed to optimize under uncertainty</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-benisch-gglnt-04/</link>
+      <link>/publication/dblp-journalssigecom-benisch-gglnt-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-benisch-gglnt-04/</guid>
+      <guid>/publication/dblp-journalssigecom-benisch-gglnt-04/</guid>
       <description></description>
     </item>
     

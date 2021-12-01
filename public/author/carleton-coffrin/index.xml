@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carleton Coffrin | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/carleton-coffrin/</link>
-      <atom:link href="glamor.cs.brown.edu/author/carleton-coffrin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/carleton-coffrin/</link>
+      <atom:link href="/author/carleton-coffrin/index.xml" rel="self" type="application/rss+xml" />
     <description>Carleton Coffrin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Carleton Coffrin</title>
-      <link>glamor.cs.brown.edu/author/carleton-coffrin/</link>
+      <link>/author/carleton-coffrin/</link>
     </image>
     
     <item>
       <title>Rank and Impression Estimation in a Stylized Model of Ad Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</link>
+      <link>/publication/dblp-confamec-berg-cgs-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</guid>
+      <guid>/publication/dblp-confamec-berg-cgs-10/</guid>
       <description></description>
     </item>
     

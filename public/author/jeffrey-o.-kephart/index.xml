@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeffrey O. Kephart | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/jeffrey-o.-kephart/</link>
-      <atom:link href="glamor.cs.brown.edu/author/jeffrey-o.-kephart/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/jeffrey-o.-kephart/</link>
+      <atom:link href="/author/jeffrey-o.-kephart/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeffrey O. Kephart</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Jeffrey O. Kephart</title>
-      <link>glamor.cs.brown.edu/author/jeffrey-o.-kephart/</link>
+      <link>/author/jeffrey-o.-kephart/</link>
     </image>
     
     <item>
       <title>Shopbot Economics</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsaamas-kephart-g-02/</link>
+      <link>/publication/dblp-journalsaamas-kephart-g-02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsaamas-kephart-g-02/</guid>
+      <guid>/publication/dblp-journalsaamas-kephart-g-02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic pricebots</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confagents-greenwald-k-01/</link>
+      <link>/publication/dblp-confagents-greenwald-k-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confagents-greenwald-k-01/</guid>
+      <guid>/publication/dblp-confagents-greenwald-k-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic pricing by software agents</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscn-kephart-hg-00/</link>
+      <link>/publication/dblp-journalscn-kephart-hg-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscn-kephart-hg-00/</guid>
+      <guid>/publication/dblp-journalscn-kephart-hg-00/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopbot Economics</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confagents-kephart-g-99/</link>
+      <link>/publication/dblp-confagents-kephart-g-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confagents-kephart-g-99/</guid>
+      <guid>/publication/dblp-confagents-kephart-g-99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopbot Economics</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confecsqaru-kephart-g-99/</link>
+      <link>/publication/dblp-confecsqaru-kephart-g-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confecsqaru-kephart-g-99/</guid>
+      <guid>/publication/dblp-confecsqaru-kephart-g-99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopbots and Pricebots</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-k-99-a/</link>
+      <link>/publication/dblp-confijcai-greenwald-k-99-a/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-k-99-a/</guid>
+      <guid>/publication/dblp-confijcai-greenwald-k-99-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopbots and Pricebots</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-k-99/</link>
+      <link>/publication/dblp-confijcai-greenwald-k-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-k-99/</guid>
+      <guid>/publication/dblp-confijcai-greenwald-k-99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategic pricebot dynamics</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-greenwald-kt-99/</link>
+      <link>/publication/dblp-confsigecom-greenwald-kt-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-greenwald-kt-99/</guid>
+      <guid>/publication/dblp-confsigecom-greenwald-kt-99/</guid>
       <description></description>
     </item>
     

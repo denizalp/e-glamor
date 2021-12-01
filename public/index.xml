@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/</link>
-      <atom:link href="glamor.cs.brown.edu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>E-GLAMOR</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>E-GLAMOR</title>
-      <link>glamor.cs.brown.edu/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>glamor.cs.brown.edu/courses/example/python/</link>
+      <link>/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/courses/example/python/</guid>
+      <guid>/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>glamor.cs.brown.edu/courses/example/visualization/</link>
+      <link>/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/courses/example/visualization/</guid>
+      <guid>/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>glamor.cs.brown.edu/courses/example/stats/</link>
+      <link>/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/courses/example/stats/</guid>
+      <guid>/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,9 +109,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Example Talk</title>
-      <link>glamor.cs.brown.edu/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -129,17 +129,17 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>2020 12 01 R Rmarkdown</title>
-      <link>glamor.cs.brown.edu/post/2020-12-01-r-rmarkdown/</link>
+      <link>/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Wed, 17 Nov 2021 22:46:51 -0500</pubDate>
-      <guid>glamor.cs.brown.edu/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>/post/2020-12-01-r-rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>glamor.cs.brown.edu/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -214,9 +214,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>glamor.cs.brown.edu/post/writing-technical-content/</link>
+      <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/post/writing-technical-content/</guid>
+      <guid>/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -240,7 +240,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-724368195&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-918435726&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -250,7 +250,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-724368195&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-918435726&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -478,9 +478,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>glamor.cs.brown.edu/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -542,9 +542,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>glamor.cs.brown.edu/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -671,113 +671,113 @@ $$&lt;/p&gt;
     
     <item>
       <title>Artificial Intelligence for Social Good</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1901-05406/</link>
+      <link>/publication/dblp-journalscorrabs-1901-05406/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1901-05406/</guid>
+      <guid>/publication/dblp-journalscorrabs-1901-05406/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical Mechanism Design: Designing Mechanisms from Data</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confuai-viqueira-cmg-19/</link>
+      <link>/publication/dblp-confuai-viqueira-cmg-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confuai-viqueira-cmg-19/</guid>
+      <guid>/publication/dblp-confuai-viqueira-cmg-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Equilibria of Simulation-Based Games</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1905-13379/</link>
+      <link>/publication/dblp-journalscorrabs-1905-13379/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1905-13379/</guid>
+      <guid>/publication/dblp-journalscorrabs-1905-13379/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Simulation-Based Games from Data</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confatal-viqueira-gcu-19/</link>
+      <link>/publication/dblp-confatal-viqueira-gcu-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confatal-viqueira-gcu-19/</guid>
+      <guid>/publication/dblp-confatal-viqueira-gcu-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supply Chain Management World - A Benchmark Environment for Situated Negotiations</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confprima-mohammad-vagnm-19/</link>
+      <link>/publication/dblp-confprima-mohammad-vagnm-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confprima-mohammad-vagnm-19/</guid>
+      <guid>/publication/dblp-confprima-mohammad-vagnm-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Algorithms for Computing Interim Allocations in Single-Parameter Environments</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confprima-greenwald-lo-18/</link>
+      <link>/publication/dblp-confprima-greenwald-lo-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confprima-greenwald-lo-18/</guid>
+      <guid>/publication/dblp-confprima-greenwald-lo-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Revenue-Maximizing Mechanisms Assuming Convex Costs</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsagt-greenwald-os-18/</link>
+      <link>/publication/dblp-confsagt-greenwald-os-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsagt-greenwald-os-18/</guid>
+      <guid>/publication/dblp-confsagt-greenwald-os-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple vs Optimal Contests with Convex Costs</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confwww-greenwald-os-18/</link>
+      <link>/publication/dblp-confwww-greenwald-os-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confwww-greenwald-os-18/</guid>
+      <guid>/publication/dblp-confwww-greenwald-os-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Approximate Welfare- and Revenue-Maximizing Equilibria for Size-Interchangeable Bidders</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confatal-viqueira-gn-17/</link>
+      <link>/publication/dblp-confatal-viqueira-gn-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confatal-viqueira-gn-17/</guid>
+      <guid>/publication/dblp-confatal-viqueira-gn-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Approximate Welfare- and Revenue-Maximizing Equilibria for Size-Interchangeable Bidders</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1708-03097/</link>
+      <link>/publication/dblp-journalscorrabs-1708-03097/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1708-03097/</guid>
+      <guid>/publication/dblp-journalscorrabs-1708-03097/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-confirming price-prediction strategies for simultaneous one-shot auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsgeb-wellman-sg-17/</link>
+      <link>/publication/dblp-journalsgeb-wellman-sg-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsgeb-wellman-sg-17/</guid>
+      <guid>/publication/dblp-journalsgeb-wellman-sg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple vs Optimal Mechanisms in Auctions with Convex Payments</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-os-17/</link>
+      <link>/publication/dblp-journalscorr-greenwald-os-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-os-17/</guid>
+      <guid>/publication/dblp-journalscorr-greenwald-os-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>glamor.cs.brown.edu/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>glamor.cs.brown.edu/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -788,625 +788,625 @@ $$&lt;/p&gt;
     
     <item>
       <title>Feature-based Joint Planning and Norm Learning in Collaborative Games</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</link>
+      <link>/publication/dblp-confcogsci-ho-mglhtbtka-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</guid>
+      <guid>/publication/dblp-confcogsci-ho-mglhtbtka-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Revenue-Maximizing Walrasian Equilibria for Size-Interchangeable Bidders</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confamec-viqueira-gnc-16/</link>
+      <link>/publication/dblp-confamec-viqueira-gnc-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confamec-viqueira-gnc-16/</guid>
+      <guid>/publication/dblp-confamec-viqueira-gnc-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Auctions with Convex Perceived Payments</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-os-16/</link>
+      <link>/publication/dblp-journalscorr-greenwald-os-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-os-16/</guid>
+      <guid>/publication/dblp-journalscorr-greenwald-os-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Algorithm for the Penalized Multiple Choice Knapsack Problem</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confecai-hilliard-gn-14/</link>
+      <link>/publication/dblp-confecai-hilliard-gn-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confecai-hilliard-gn-14/</guid>
+      <guid>/publication/dblp-confecai-hilliard-gn-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Analysis of QuiBids&#39; Penny Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confamec-greenwald-ssss-14/</link>
+      <link>/publication/dblp-confamec-greenwald-ssss-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confamec-greenwald-ssss-14/</guid>
+      <guid>/publication/dblp-confamec-greenwald-ssss-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Destroy to save</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</link>
+      <link>/publication/dblp-journalsgeb-clippel-npgj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</guid>
+      <guid>/publication/dblp-journalsgeb-clippel-npgj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RoxyBot-06: Stochastic Prediction and Optimization in TAC Travel</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-ln-14/</link>
+      <link>/publication/dblp-journalscorr-greenwald-ln-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorr-greenwald-ln-14/</guid>
+      <guid>/publication/dblp-journalscorr-greenwald-ln-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accounting for Price Dependencies in Simultaneous Sealed-Bid Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confaaai-mayer-sgw-13/</link>
+      <link>/publication/dblp-confaaai-mayer-sgw-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confaaai-mayer-sgw-13/</guid>
+      <guid>/publication/dblp-confaaai-mayer-sgw-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accounting for price dependencies in simultaneous sealed-bid auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-mayer-sgw-13/</link>
+      <link>/publication/dblp-confsigecom-mayer-sgw-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-mayer-sgw-13/</guid>
+      <guid>/publication/dblp-confsigecom-mayer-sgw-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coco-Q: Learning in Stochastic Games with Side Payments</title>
-      <link>glamor.cs.brown.edu/publication/dblp-conficml-sodomka-hlg-13/</link>
+      <link>/publication/dblp-conficml-sodomka-hlg-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-conficml-sodomka-hlg-13/</guid>
+      <guid>/publication/dblp-conficml-sodomka-hlg-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical Analysis of Auctioneer Profitability in QuiBids Penny Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confaaai-greenwald-ssss-13/</link>
+      <link>/publication/dblp-confaaai-greenwald-ssss-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confaaai-greenwald-ssss-13/</guid>
+      <guid>/publication/dblp-confaaai-greenwald-ssss-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The price of independence in simultaneous auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confatal-mayer-sg-13/</link>
+      <link>/publication/dblp-confatal-mayer-sg-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confatal-mayer-sg-13/</guid>
+      <guid>/publication/dblp-confatal-mayer-sg-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Algorithm for Computing Stochastically Stable Distributions with Applications to Multiagent Learning in Repeated Games</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1207-1424/</link>
+      <link>/publication/dblp-journalscorrabs-1207-1424/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1207-1424/</guid>
+      <guid>/publication/dblp-journalscorrabs-1207-1424/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximating Equilibria in Sequential Auctions with Incomplete Information and Multi-Unit Demand</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confnips-greenwald-ls-12/</link>
+      <link>/publication/dblp-confnips-greenwald-ls-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confnips-greenwald-ls-12/</guid>
+      <guid>/publication/dblp-confnips-greenwald-ls-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bidding under Uncertainty: Theory and Experiments</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1207-4108/</link>
+      <link>/publication/dblp-journalscorrabs-1207-4108/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1207-4108/</guid>
+      <guid>/publication/dblp-journalscorrabs-1207-4108/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JACK: A Java Auction Configuration Kit</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confamec-goff-ghkls-12/</link>
+      <link>/publication/dblp-confamec-goff-ghkls-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confamec-goff-ghkls-12/</guid>
+      <guid>/publication/dblp-confamec-goff-ghkls-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Confirming Price Prediction Strategies for Simultaneous One-Shot Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confuai-wellman-sg-12/</link>
+      <link>/publication/dblp-confuai-wellman-sg-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confuai-wellman-sg-12/</guid>
+      <guid>/publication/dblp-confuai-wellman-sg-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Confirming Price Prediction Strategies for Simultaneous One-Shot Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1210-4915/</link>
+      <link>/publication/dblp-journalscorrabs-1210-4915/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1210-4915/</guid>
+      <guid>/publication/dblp-journalscorrabs-1210-4915/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Budget-Balanced and Nearly Efficient Randomized Mechanisms: Public Goods and beyond</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</link>
+      <link>/publication/dblp-confwine-guo-ncgj-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</guid>
+      <guid>/publication/dblp-confwine-guo-ncgj-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Knapsack-Based Approach to Bidding in Ad Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</link>
+      <link>/publication/dblp-confecai-berg-gns-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</guid>
+      <guid>/publication/dblp-confecai-berg-gns-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Evaluating Information Revelation Policies in Procurement Auctions: A Markov Decision Process Approach</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsisr-greenwald-kk-10/</link>
+      <link>/publication/dblp-journalsisr-greenwald-kk-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsisr-greenwald-kk-10/</guid>
+      <guid>/publication/dblp-journalsisr-greenwald-kk-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rank and Impression Estimation in a Stylized Model of Ad Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</link>
+      <link>/publication/dblp-confamec-berg-cgs-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</guid>
+      <guid>/publication/dblp-confamec-berg-cgs-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Destroy to save</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-clippel-ng-09/</link>
+      <link>/publication/dblp-confsigecom-clippel-ng-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-clippel-ng-09/</guid>
+      <guid>/publication/dblp-confsigecom-clippel-ng-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RoxyBot-06: Stochastic Prediction and Optimization in TAC Travel</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsjair-greenwald-ln-09/</link>
+      <link>/publication/dblp-journalsjair-greenwald-ln-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsjair-greenwald-ln-09/</guid>
+      <guid>/publication/dblp-journalsjair-greenwald-ln-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bidding Heuristics for Simultaneous Auctions: Lessons from TAC Travel</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confamec-greenwald-nl-08/</link>
+      <link>/publication/dblp-confamec-greenwald-nl-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confamec-greenwald-nl-08/</guid>
+      <guid>/publication/dblp-confamec-greenwald-nl-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book announcement: autonomous bidding agents</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-wellman-gs-08/</link>
+      <link>/publication/dblp-journalssigecom-wellman-gs-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-wellman-gs-08/</guid>
+      <guid>/publication/dblp-journalssigecom-wellman-gs-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More Efficient Internal-Regret-Minimizing Algorithms</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confcolt-greenwald-ls-08/</link>
+      <link>/publication/dblp-confcolt-greenwald-ls-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confcolt-greenwald-ls-08/</guid>
+      <guid>/publication/dblp-confcolt-greenwald-ls-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>No-regret learning in convex games</title>
-      <link>glamor.cs.brown.edu/publication/dblp-conficml-gordon-gm-08/</link>
+      <link>/publication/dblp-conficml-gordon-gm-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-conficml-gordon-gm-08/</guid>
+      <guid>/publication/dblp-conficml-gordon-gm-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hierarchy of prescriptive goals for multiagent learning</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsai-zinkevich-gl-07/</link>
+      <link>/publication/dblp-journalsai-zinkevich-gl-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsai-zinkevich-gl-07/</guid>
+      <guid>/publication/dblp-journalsai-zinkevich-gl-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous bidding agents - strategies and lessons from the trading agent competition</title>
-      <link>glamor.cs.brown.edu/publication/dblp-booksdaglib-0018264/</link>
+      <link>/publication/dblp-booksdaglib-0018264/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-booksdaglib-0018264/</guid>
+      <guid>/publication/dblp-booksdaglib-0018264/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of Information-Revelation Policies Under Market-Structure Uncertainty</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsmansci-arora-gkk-07/</link>
+      <link>/publication/dblp-journalsmansci-arora-gkk-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsmansci-arora-gkk-07/</guid>
+      <guid>/publication/dblp-journalsmansci-arora-gkk-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to the special issue on learning and computational game theory</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsml-greenwald-l-07/</link>
+      <link>/publication/dblp-journalsml-greenwald-l-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsml-greenwald-l-07/</guid>
+      <guid>/publication/dblp-journalsml-greenwald-l-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marginal Bidding: An Application of the Equimarginal Principle to Bidding in TAC SCM</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</link>
+      <link>/publication/dblp-confatal-greenwald-norszc-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</guid>
+      <guid>/publication/dblp-confatal-greenwald-norszc-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More efficient parallel computation of pagerank</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigir-wicks-g-07/</link>
+      <link>/publication/dblp-confsigir-wicks-g-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigir-wicks-g-07/</guid>
+      <guid>/publication/dblp-confsigir-wicks-g-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallelizing the Computation of PageRank</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confwaw-wicks-g-07/</link>
+      <link>/publication/dblp-confwaw-wicks-g-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confwaw-wicks-g-07/</guid>
+      <guid>/publication/dblp-confwaw-wicks-g-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RoxyBot-06: An (SAA)2 TAC Travel Agent</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confijcai-lee-gn-07/</link>
+      <link>/publication/dblp-confijcai-lee-gn-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confijcai-lee-gn-07/</guid>
+      <guid>/publication/dblp-confijcai-lee-gn-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Iterated Best-Response to Find Bayes-Nash Equilibria in Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confaaai-naroditskiy-g-07/</link>
+      <link>/publication/dblp-confaaai-naroditskiy-g-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confaaai-naroditskiy-g-07/</guid>
+      <guid>/publication/dblp-confaaai-naroditskiy-g-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Quotient Construction on Markov Chains with Applications to the Theory of Generalized Simulated Annealing</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confisaim-wicks-g-06/</link>
+      <link>/publication/dblp-confisaim-wicks-g-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confisaim-wicks-g-06/</guid>
+      <guid>/publication/dblp-confisaim-wicks-g-06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bounds for Regret-Matching Algorithms</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confisaim-greenwald-lm-06/</link>
+      <link>/publication/dblp-confisaim-greenwald-lm-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confisaim-greenwald-lm-06/</guid>
+      <guid>/publication/dblp-confisaim-greenwald-lm-06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editor&#39;s introduction</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-06-a/</link>
+      <link>/publication/dblp-journalssigecom-greenwald-06-a/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-06-a/</guid>
+      <guid>/publication/dblp-journalssigecom-greenwald-06-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editor&#39;s introduction</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-06/</link>
+      <link>/publication/dblp-journalssigecom-greenwald-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-06/</guid>
+      <guid>/publication/dblp-journalssigecom-greenwald-06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heuristics for the deterministic bidding problem</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-n-06/</link>
+      <link>/publication/dblp-journalssigecom-greenwald-n-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-n-06/</guid>
+      <guid>/publication/dblp-journalssigecom-greenwald-n-06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Algorithm for Computing Stochastically Stable Distributions with Applications to Multiagent Learning in Repeated Games</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confuai-wicks-g-05/</link>
+      <link>/publication/dblp-confuai-wicks-g-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confuai-wicks-g-05/</guid>
+      <guid>/publication/dblp-confuai-wicks-g-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyclic Equilibria in Markov Games</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confnips-zinkevich-gl-05/</link>
+      <link>/publication/dblp-confnips-zinkevich-gl-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confnips-zinkevich-gl-05/</guid>
+      <guid>/publication/dblp-confnips-zinkevich-gl-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editor&#39;s introduction</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-05/</link>
+      <link>/publication/dblp-journalssigecom-greenwald-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-05/</guid>
+      <guid>/publication/dblp-journalssigecom-greenwald-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foreword</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsecr-zurko-g-05/</link>
+      <link>/publication/dblp-journalsecr-zurko-g-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsecr-zurko-g-05/</guid>
+      <guid>/publication/dblp-journalsecr-zurko-g-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scaling Up the Sample Average Approximation Method for Stochastic Optimization with Applications to Trading Agents</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-gnt-05/</link>
+      <link>/publication/dblp-confijcai-greenwald-gnt-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-gnt-05/</guid>
+      <guid>/publication/dblp-confijcai-greenwald-gnt-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The First International Trading Agent Competition: Autonomous Bidding Agents</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsecr-stone-g-05/</link>
+      <link>/publication/dblp-journalsecr-stone-g-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsecr-stone-g-05/</guid>
+      <guid>/publication/dblp-journalsecr-stone-g-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A stochastic programming approach to scheduling in TAC SCM</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-benisch-gnt-04/</link>
+      <link>/publication/dblp-confsigecom-benisch-gnt-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-benisch-gnt-04/</guid>
+      <guid>/publication/dblp-confsigecom-benisch-gnt-04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bidding under Uncertainty: Theory and Experiments</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confuai-greenwald-b-04/</link>
+      <link>/publication/dblp-confuai-greenwald-b-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confuai-greenwald-b-04/</guid>
+      <guid>/publication/dblp-confuai-greenwald-b-04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Botticelli: A Supply Chain Management Agent</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confatal-benisch-gglnt-04/</link>
+      <link>/publication/dblp-confatal-benisch-gglnt-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confatal-benisch-gglnt-04/</guid>
+      <guid>/publication/dblp-confatal-benisch-gglnt-04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Botticelli: a supply chain management agent designed to optimize under uncertainty</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-benisch-gglnt-04/</link>
+      <link>/publication/dblp-journalssigecom-benisch-gglnt-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-benisch-gglnt-04/</guid>
+      <guid>/publication/dblp-journalssigecom-benisch-gglnt-04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editor&#39;s introduction</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-04-a/</link>
+      <link>/publication/dblp-journalssigecom-greenwald-04-a/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-04-a/</guid>
+      <guid>/publication/dblp-journalssigecom-greenwald-04-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editor&#39;s introduction</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-04-b/</link>
+      <link>/publication/dblp-journalssigecom-greenwald-04-b/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-04-b/</guid>
+      <guid>/publication/dblp-journalssigecom-greenwald-04-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editor&#39;s introduction</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-04/</link>
+      <link>/publication/dblp-journalssigecom-greenwald-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalssigecom-greenwald-04/</guid>
+      <guid>/publication/dblp-journalssigecom-greenwald-04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Computational Approach to Compare Information Revelation Policies</title>
-      <link>glamor.cs.brown.edu/publication/dblp-conficis-greenwald-kk-03/</link>
+      <link>/publication/dblp-conficis-greenwald-kk-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-conficis-greenwald-kk-03/</guid>
+      <guid>/publication/dblp-conficis-greenwald-kk-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A General Class of No-Regret Learning Algorithms and Game-Theoretic Equilibria</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confcolt-greenwald-j-03/</link>
+      <link>/publication/dblp-confcolt-greenwald-j-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confcolt-greenwald-j-03/</guid>
+      <guid>/publication/dblp-confcolt-greenwald-j-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bidding Marginal Utility in Simultaneous Auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-03/</link>
+      <link>/publication/dblp-confijcai-greenwald-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-03/</guid>
+      <guid>/publication/dblp-confijcai-greenwald-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correlated Q-Learning</title>
-      <link>glamor.cs.brown.edu/publication/dblp-conficml-greenwald-h-03/</link>
+      <link>/publication/dblp-conficml-greenwald-h-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-conficml-greenwald-h-03/</guid>
+      <guid>/publication/dblp-conficml-greenwald-h-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest Editors&#39; Introduction: Agents and Markets</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsexpert-greenwald-js-03/</link>
+      <link>/publication/dblp-journalsexpert-greenwald-js-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsexpert-greenwald-js-03/</guid>
+      <guid>/publication/dblp-journalsexpert-greenwald-js-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Curve: A Simulation-Based Approach to Dynamic Pricing</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsecr-di-micco-mg-03/</link>
+      <link>/publication/dblp-journalsecr-di-micco-mg-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsecr-di-micco-mg-03/</guid>
+      <guid>/publication/dblp-journalsecr-di-micco-mg-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2001 Trading Agent Competition</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</link>
+      <link>/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</guid>
+      <guid>/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2002 Trading Agent Competition: An Overview of Agent Strategies</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsaim-greenwald-03/</link>
+      <link>/publication/dblp-journalsaim-greenwald-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsaim-greenwald-03/</guid>
+      <guid>/publication/dblp-journalsaim-greenwald-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopbot Economics</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsaamas-kephart-g-02/</link>
+      <link>/publication/dblp-journalsaamas-kephart-g-02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsaamas-kephart-g-02/</guid>
+      <guid>/publication/dblp-journalsaamas-kephart-g-02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2001 Trading Agent Competition</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confaaai-wellman-gsw-02/</link>
+      <link>/publication/dblp-confaaai-wellman-gsw-02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confaaai-wellman-gsw-02/</guid>
+      <guid>/publication/dblp-confaaai-wellman-gsw-02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous Bidding Agents in the Trading Agent Competition</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsinternet-greenwald-s-01/</link>
+      <link>/publication/dblp-journalsinternet-greenwald-s-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsinternet-greenwald-s-01/</guid>
+      <guid>/publication/dblp-journalsinternet-greenwald-s-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bid determination in simultaneous actions an agent architecture</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-boyan-g-01/</link>
+      <link>/publication/dblp-confsigecom-boyan-g-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-boyan-g-01/</guid>
+      <guid>/publication/dblp-confsigecom-boyan-g-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bidding algorithms for simultaneous auctions</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-greenwald-b-01/</link>
+      <link>/publication/dblp-confsigecom-greenwald-b-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-greenwald-b-01/</guid>
+      <guid>/publication/dblp-confsigecom-greenwald-b-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic pricing strategies under a finite time horizon</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-di-micco-gm-01/</link>
+      <link>/publication/dblp-confsigecom-di-micco-gm-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-di-micco-gm-01/</guid>
+      <guid>/publication/dblp-confsigecom-di-micco-gm-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning in Network Contexts: Experimental Results from Simulations</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsgeb-greenwald-fs-01/</link>
+      <link>/publication/dblp-journalsgeb-greenwald-fs-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsgeb-greenwald-fs-01/</guid>
+      <guid>/publication/dblp-journalsgeb-greenwald-fs-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On No-Regret Learning, Fictitious Play, and Nash Equilibrium</title>
-      <link>glamor.cs.brown.edu/publication/dblp-conficml-jafari-gge-01/</link>
+      <link>/publication/dblp-conficml-jafari-gge-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-conficml-jafari-gge-01/</guid>
+      <guid>/publication/dblp-conficml-jafari-gge-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic pricebots</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confagents-greenwald-k-01/</link>
+      <link>/publication/dblp-confagents-greenwald-k-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confagents-greenwald-k-01/</guid>
+      <guid>/publication/dblp-confagents-greenwald-k-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic pricing by software agents</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscn-kephart-hg-00/</link>
+      <link>/publication/dblp-journalscn-kephart-hg-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscn-kephart-hg-00/</guid>
+      <guid>/publication/dblp-journalscn-kephart-hg-00/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopbot Economics</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confagents-kephart-g-99/</link>
+      <link>/publication/dblp-confagents-kephart-g-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confagents-kephart-g-99/</guid>
+      <guid>/publication/dblp-confagents-kephart-g-99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopbot Economics</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confecsqaru-kephart-g-99/</link>
+      <link>/publication/dblp-confecsqaru-kephart-g-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confecsqaru-kephart-g-99/</guid>
+      <guid>/publication/dblp-confecsqaru-kephart-g-99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopbots and Pricebots</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-k-99-a/</link>
+      <link>/publication/dblp-confijcai-greenwald-k-99-a/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-k-99-a/</guid>
+      <guid>/publication/dblp-confijcai-greenwald-k-99-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shopbots and Pricebots</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-k-99/</link>
+      <link>/publication/dblp-confijcai-greenwald-k-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confijcai-greenwald-k-99/</guid>
+      <guid>/publication/dblp-confijcai-greenwald-k-99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategic pricebot dynamics</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-greenwald-kt-99/</link>
+      <link>/publication/dblp-confsigecom-greenwald-kt-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-greenwald-kt-99/</guid>
+      <guid>/publication/dblp-confsigecom-greenwald-kt-99/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rigel Galgana | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/rigel-galgana/</link>
-      <atom:link href="glamor.cs.brown.edu/author/rigel-galgana/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/rigel-galgana/</link>
+      <atom:link href="/author/rigel-galgana/index.xml" rel="self" type="application/rss+xml" />
     <description>Rigel Galgana</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/glamor.cs.brown.edu/author/rigel-galgana/avatar_hu48cc077afbe0a02d403d7b44a7804e6d_44569_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/rigel-galgana/avatar_hu48cc077afbe0a02d403d7b44a7804e6d_44569_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Rigel Galgana</title>
-      <link>glamor.cs.brown.edu/author/rigel-galgana/</link>
+      <link>/author/rigel-galgana/</link>
     </image>
     
   </channel>

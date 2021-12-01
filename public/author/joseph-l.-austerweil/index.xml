@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joseph L. Austerweil | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/joseph-l.-austerweil/</link>
-      <atom:link href="glamor.cs.brown.edu/author/joseph-l.-austerweil/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/joseph-l.-austerweil/</link>
+      <atom:link href="/author/joseph-l.-austerweil/index.xml" rel="self" type="application/rss+xml" />
     <description>Joseph L. Austerweil</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Joseph L. Austerweil</title>
-      <link>glamor.cs.brown.edu/author/joseph-l.-austerweil/</link>
+      <link>/author/joseph-l.-austerweil/</link>
     </image>
     
     <item>
       <title>Feature-based Joint Planning and Norm Learning in Collaborative Games</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</link>
+      <link>/publication/dblp-confcogsci-ho-mglhtbtka-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</guid>
+      <guid>/publication/dblp-confcogsci-ho-mglhtbtka-16/</guid>
       <description></description>
     </item>
     

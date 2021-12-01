@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric J. Friedman | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/eric-j.-friedman/</link>
-      <atom:link href="glamor.cs.brown.edu/author/eric-j.-friedman/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/eric-j.-friedman/</link>
+      <atom:link href="/author/eric-j.-friedman/index.xml" rel="self" type="application/rss+xml" />
     <description>Eric J. Friedman</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Eric J. Friedman</title>
-      <link>glamor.cs.brown.edu/author/eric-j.-friedman/</link>
+      <link>/author/eric-j.-friedman/</link>
     </image>
     
     <item>
       <title>Learning in Network Contexts: Experimental Results from Simulations</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalsgeb-greenwald-fs-01/</link>
+      <link>/publication/dblp-journalsgeb-greenwald-fs-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalsgeb-greenwald-fs-01/</guid>
+      <guid>/publication/dblp-journalsgeb-greenwald-fs-01/</guid>
       <description></description>
     </item>
     

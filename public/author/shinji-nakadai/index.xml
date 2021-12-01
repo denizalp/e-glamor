@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shinji Nakadai | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/shinji-nakadai/</link>
-      <atom:link href="glamor.cs.brown.edu/author/shinji-nakadai/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/shinji-nakadai/</link>
+      <atom:link href="/author/shinji-nakadai/index.xml" rel="self" type="application/rss+xml" />
     <description>Shinji Nakadai</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Shinji Nakadai</title>
-      <link>glamor.cs.brown.edu/author/shinji-nakadai/</link>
+      <link>/author/shinji-nakadai/</link>
     </image>
     
     <item>
       <title>Supply Chain Management World - A Benchmark Environment for Situated Negotiations</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confprima-mohammad-vagnm-19/</link>
+      <link>/publication/dblp-confprima-mohammad-vagnm-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confprima-mohammad-vagnm-19/</guid>
+      <guid>/publication/dblp-confprima-mohammad-vagnm-19/</guid>
       <description></description>
     </item>
     

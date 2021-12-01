@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gunes Ercal | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/gunes-ercal/</link>
-      <atom:link href="glamor.cs.brown.edu/author/gunes-ercal/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/gunes-ercal/</link>
+      <atom:link href="/author/gunes-ercal/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunes Ercal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Gunes Ercal</title>
-      <link>glamor.cs.brown.edu/author/gunes-ercal/</link>
+      <link>/author/gunes-ercal/</link>
     </image>
     
     <item>
       <title>On No-Regret Learning, Fictitious Play, and Nash Equilibrium</title>
-      <link>glamor.cs.brown.edu/publication/dblp-conficml-jafari-gge-01/</link>
+      <link>/publication/dblp-conficml-jafari-gge-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-conficml-jafari-gge-01/</guid>
+      <guid>/publication/dblp-conficml-jafari-gge-01/</guid>
       <description></description>
     </item>
     

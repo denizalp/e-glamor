@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marilyn George | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/marilyn-george/</link>
-      <atom:link href="glamor.cs.brown.edu/author/marilyn-george/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/marilyn-george/</link>
+      <atom:link href="/author/marilyn-george/index.xml" rel="self" type="application/rss+xml" />
     <description>Marilyn George</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/glamor.cs.brown.edu/author/marilyn-george/avatar_huc2bf8707fdda40d3facac348ec9daa23_14954_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/marilyn-george/avatar_huc2bf8707fdda40d3facac348ec9daa23_14954_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Marilyn George</title>
-      <link>glamor.cs.brown.edu/author/marilyn-george/</link>
+      <link>/author/marilyn-george/</link>
     </image>
     
   </channel>

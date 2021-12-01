@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mauricio Ramirez | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/mauricio-ramirez/</link>
-      <atom:link href="glamor.cs.brown.edu/author/mauricio-ramirez/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/mauricio-ramirez/</link>
+      <atom:link href="/author/mauricio-ramirez/index.xml" rel="self" type="application/rss+xml" />
     <description>Mauricio Ramirez</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Mauricio Ramirez</title>
-      <link>glamor.cs.brown.edu/author/mauricio-ramirez/</link>
+      <link>/author/mauricio-ramirez/</link>
     </image>
     
     <item>
       <title>Marginal Bidding: An Application of the Equimarginal Principle to Bidding in TAC SCM</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</link>
+      <link>/publication/dblp-confatal-greenwald-norszc-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</guid>
+      <guid>/publication/dblp-confatal-greenwald-norszc-07/</guid>
       <description></description>
     </item>
     

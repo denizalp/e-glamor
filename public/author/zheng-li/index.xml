@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zheng Li | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/zheng-li/</link>
-      <atom:link href="glamor.cs.brown.edu/author/zheng-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/zheng-li/</link>
+      <atom:link href="/author/zheng-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zheng Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Zheng Li</title>
-      <link>glamor.cs.brown.edu/author/zheng-li/</link>
+      <link>/author/zheng-li/</link>
     </image>
     
     <item>
       <title>More Efficient Internal-Regret-Minimizing Algorithms</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confcolt-greenwald-ls-08/</link>
+      <link>/publication/dblp-confcolt-greenwald-ls-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confcolt-greenwald-ls-08/</guid>
+      <guid>/publication/dblp-confcolt-greenwald-ls-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bounds for Regret-Matching Algorithms</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confisaim-greenwald-lm-06/</link>
+      <link>/publication/dblp-confisaim-greenwald-lm-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confisaim-greenwald-lm-06/</guid>
+      <guid>/publication/dblp-confisaim-greenwald-lm-06/</guid>
       <description></description>
     </item>
     

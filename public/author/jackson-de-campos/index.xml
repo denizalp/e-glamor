@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jackson De Campos | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/jackson-de-campos/</link>
-      <atom:link href="glamor.cs.brown.edu/author/jackson-de-campos/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/jackson-de-campos/</link>
+      <atom:link href="/author/jackson-de-campos/index.xml" rel="self" type="application/rss+xml" />
     <description>Jackson De Campos</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/glamor.cs.brown.edu/author/jackson-de-campos/avatar_hu4ac4896bce9c007b0ea915678012d7ea_2932967_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/jackson-de-campos/avatar_hu4ac4896bce9c007b0ea915678012d7ea_2932967_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jackson De Campos</title>
-      <link>glamor.cs.brown.edu/author/jackson-de-campos/</link>
+      <link>/author/jackson-de-campos/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Denizalp Goktas | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/denizalp-goktas/</link>
-      <atom:link href="glamor.cs.brown.edu/author/denizalp-goktas/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/denizalp-goktas/</link>
+      <atom:link href="/author/denizalp-goktas/index.xml" rel="self" type="application/rss+xml" />
     <description>Denizalp Goktas</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/glamor.cs.brown.edu/author/denizalp-goktas/avatar_hu2076afd00d1c3ef8095b1e0bc9a378c6_3298721_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>/author/denizalp-goktas/avatar_hu2076afd00d1c3ef8095b1e0bc9a378c6_3298721_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Denizalp Goktas</title>
-      <link>glamor.cs.brown.edu/author/denizalp-goktas/</link>
+      <link>/author/denizalp-goktas/</link>
     </image>
     
   </channel>

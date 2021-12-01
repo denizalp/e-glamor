@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John R. Wicks | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/author/john-r.-wicks/</link>
-      <atom:link href="glamor.cs.brown.edu/author/john-r.-wicks/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/john-r.-wicks/</link>
+      <atom:link href="/author/john-r.-wicks/index.xml" rel="self" type="application/rss+xml" />
     <description>John R. Wicks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>John R. Wicks</title>
-      <link>glamor.cs.brown.edu/author/john-r.-wicks/</link>
+      <link>/author/john-r.-wicks/</link>
     </image>
     
     <item>
       <title>An Algorithm for Computing Stochastically Stable Distributions with Applications to Multiagent Learning in Repeated Games</title>
-      <link>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1207-1424/</link>
+      <link>/publication/dblp-journalscorrabs-1207-1424/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1207-1424/</guid>
+      <guid>/publication/dblp-journalscorrabs-1207-1424/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More efficient parallel computation of pagerank</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confsigir-wicks-g-07/</link>
+      <link>/publication/dblp-confsigir-wicks-g-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confsigir-wicks-g-07/</guid>
+      <guid>/publication/dblp-confsigir-wicks-g-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallelizing the Computation of PageRank</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confwaw-wicks-g-07/</link>
+      <link>/publication/dblp-confwaw-wicks-g-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confwaw-wicks-g-07/</guid>
+      <guid>/publication/dblp-confwaw-wicks-g-07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Quotient Construction on Markov Chains with Applications to the Theory of Generalized Simulated Annealing</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confisaim-wicks-g-06/</link>
+      <link>/publication/dblp-confisaim-wicks-g-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confisaim-wicks-g-06/</guid>
+      <guid>/publication/dblp-confisaim-wicks-g-06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Algorithm for Computing Stochastically Stable Distributions with Applications to Multiagent Learning in Repeated Games</title>
-      <link>glamor.cs.brown.edu/publication/dblp-confuai-wicks-g-05/</link>
+      <link>/publication/dblp-confuai-wicks-g-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/publication/dblp-confuai-wicks-g-05/</guid>
+      <guid>/publication/dblp-confuai-wicks-g-05/</guid>
       <description></description>
     </item>
     

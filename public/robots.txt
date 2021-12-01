@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: glamor.cs.brown.edu/sitemap.xml
+Sitemap: /sitemap.xml

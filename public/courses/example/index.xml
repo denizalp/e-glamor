@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>📊 Learn Data Science | E-GLAMOR</title>
-    <link>glamor.cs.brown.edu/courses/example/</link>
-      <atom:link href="glamor.cs.brown.edu/courses/example/index.xml" rel="self" type="application/rss+xml" />
+    <link>/courses/example/</link>
+      <atom:link href="/courses/example/index.xml" rel="self" type="application/rss+xml" />
     <description>📊 Learn Data Science</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/glamor.cs.brown.edu/courses/example/featured.jpg</url>
+      <url>/courses/example/featured.jpg</url>
       <title>📊 Learn Data Science</title>
-      <link>glamor.cs.brown.edu/courses/example/</link>
+      <link>/courses/example/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>glamor.cs.brown.edu/courses/example/python/</link>
+      <link>/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/courses/example/python/</guid>
+      <guid>/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>glamor.cs.brown.edu/courses/example/visualization/</link>
+      <link>/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/courses/example/visualization/</guid>
+      <guid>/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>glamor.cs.brown.edu/courses/example/stats/</link>
+      <link>/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>glamor.cs.brown.edu/courses/example/stats/</guid>
+      <guid>/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
