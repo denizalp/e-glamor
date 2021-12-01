@@ -4,7 +4,7 @@ authors:
 bio: 
 email: ""
 interests:
-name: Jack Ciabaton
+title: Jack Ciabaton
 organizations:
 - name: Brown University
   url: ""

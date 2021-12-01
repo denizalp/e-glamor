@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark K. Ho | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu/author/mark-k.-ho/</link>
-      <atom:link href="https://glamor.cs.brown.edu/author/mark-k.-ho/index.xml" rel="self" type="application/rss+xml" />
+    <link>glamor.cs.brown.edu/author/mark-k.-ho/</link>
+      <atom:link href="glamor.cs.brown.edu/author/mark-k.-ho/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark K. Ho</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Mark K. Ho</title>
-      <link>https://glamor.cs.brown.edu/author/mark-k.-ho/</link>
+      <link>glamor.cs.brown.edu/author/mark-k.-ho/</link>
     </image>
     
     <item>
       <title>Feature-based Joint Planning and Norm Learning in Collaborative Games</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confcogsci-ho-mglhtbtka-16/</guid>
       <description></description>
     </item>
     

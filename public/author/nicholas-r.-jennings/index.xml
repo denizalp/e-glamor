@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicholas R. Jennings | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu/author/nicholas-r.-jennings/</link>
-      <atom:link href="https://glamor.cs.brown.edu/author/nicholas-r.-jennings/index.xml" rel="self" type="application/rss+xml" />
+    <link>glamor.cs.brown.edu/author/nicholas-r.-jennings/</link>
+      <atom:link href="glamor.cs.brown.edu/author/nicholas-r.-jennings/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicholas R. Jennings</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Nicholas R. Jennings</title>
-      <link>https://glamor.cs.brown.edu/author/nicholas-r.-jennings/</link>
+      <link>glamor.cs.brown.edu/author/nicholas-r.-jennings/</link>
     </image>
     
     <item>
       <title>Destroy to save</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-journalsgeb-clippel-npgj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Budget-Balanced and Nearly Efficient Randomized Mechanisms: Public Goods and beyond</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confwine-guo-ncgj-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest Editors&#39; Introduction: Agents and Markets</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-journalsexpert-greenwald-js-03/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-journalsexpert-greenwald-js-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsexpert-greenwald-js-03/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-journalsexpert-greenwald-js-03/</guid>
       <description></description>
     </item>
     

@@ -4,7 +4,7 @@ authors:
 bio: 
 email: ""
 interests:
-name: Rigel Galgana
+title: Rigel Galgana
 organizations:
 - name: Brown University
   url: ""

@@ -20,7 +20,7 @@ interests:
 - Multi-Agent Systems
 - Reinforcement Learning
 - Algorithmic Game Theory
-name: Amy Greenwald
+title: Amy Greenwald
 organizations:
 - name: Brown University
   url: ""

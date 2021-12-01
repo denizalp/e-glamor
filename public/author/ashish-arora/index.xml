@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ashish Arora | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu/author/ashish-arora/</link>
-      <atom:link href="https://glamor.cs.brown.edu/author/ashish-arora/index.xml" rel="self" type="application/rss+xml" />
+    <link>glamor.cs.brown.edu/author/ashish-arora/</link>
+      <atom:link href="glamor.cs.brown.edu/author/ashish-arora/index.xml" rel="self" type="application/rss+xml" />
     <description>Ashish Arora</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Ashish Arora</title>
-      <link>https://glamor.cs.brown.edu/author/ashish-arora/</link>
+      <link>glamor.cs.brown.edu/author/ashish-arora/</link>
     </image>
     
     <item>
       <title>Effects of Information-Revelation Policies Under Market-Structure Uncertainty</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-journalsmansci-arora-gkk-07/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-journalsmansci-arora-gkk-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsmansci-arora-gkk-07/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-journalsmansci-arora-gkk-07/</guid>
       <description></description>
     </item>
     

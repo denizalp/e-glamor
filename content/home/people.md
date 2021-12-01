@@ -10,7 +10,7 @@ content:
   user_groups:
     - Principal Investigators
     - Ph.D. Students
-    - Master Student
+    - Master Students
     - Undergraduate Students
     - Visitors
     - Alumni

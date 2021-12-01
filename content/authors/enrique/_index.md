@@ -24,7 +24,7 @@ interests:
 - Artificial Intelligence
 - Computational Economics
 - Algorithmic Game Theory
-name: Enrique Areyan Viqueira
+title: Enrique Areyan Viqueira
 organizations:
 - name: Brown University
   url: ""

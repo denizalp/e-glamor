@@ -4,7 +4,7 @@ authors:
 bio: 
 email: ""
 interests:
-name: John Randolph
+title: John Randolph
 organizations:
 - name: Brown University
   url: ""

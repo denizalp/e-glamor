@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jordan Berg | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu/author/jordan-berg/</link>
-      <atom:link href="https://glamor.cs.brown.edu/author/jordan-berg/index.xml" rel="self" type="application/rss+xml" />
+    <link>glamor.cs.brown.edu/author/jordan-berg/</link>
+      <atom:link href="glamor.cs.brown.edu/author/jordan-berg/index.xml" rel="self" type="application/rss+xml" />
     <description>Jordan Berg</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Jordan Berg</title>
-      <link>https://glamor.cs.brown.edu/author/jordan-berg/</link>
+      <link>glamor.cs.brown.edu/author/jordan-berg/</link>
     </image>
     
     <item>
       <title>A Knapsack-Based Approach to Bidding in Ad Auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rank and Impression Estimation in a Stylized Model of Ad Auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</guid>
       <description></description>
     </item>
     

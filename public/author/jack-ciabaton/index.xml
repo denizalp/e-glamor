@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jack Ciabaton | E-GLAMOR</title>
+    <link>glamor.cs.brown.edu/author/jack-ciabaton/</link>
+      <atom:link href="glamor.cs.brown.edu/author/jack-ciabaton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jack Ciabaton</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/glamor.cs.brown.edu/author/jack-ciabaton/avatar_hua70b95ef5c1e42f5322b791c1092fedc_1572719_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jack Ciabaton</title>
+      <link>glamor.cs.brown.edu/author/jack-ciabaton/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -14,7 +14,7 @@ email: "marilyn_george@brown.edu"
 interests:
 - Cryptography
 - Algorithmic Game Theory
-name: Marilyn George
+title: Marilyn George
 organizations:
 - name: Brown University
   url: ""

@@ -16,7 +16,7 @@ interests:
 - Multi-Agent Systems
 - Reinforcement Learning
 - Algorithmic Game Theory
-name: Denizalp Goktas
+title: Denizalp Goktas
 organizations:
 - name: Brown University
   url: ""

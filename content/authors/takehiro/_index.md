@@ -1,10 +1,10 @@
 ---
-authors:
+author:
 - takehiro
 bio: 
 email: ""
 interests:
-name: Takehiro Oyakawa
+title: Takehiro Oyakawa
 organizations:
 - name: Brown University
   url: ""

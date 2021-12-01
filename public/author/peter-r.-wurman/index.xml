@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter R. Wurman | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu/author/peter-r.-wurman/</link>
-      <atom:link href="https://glamor.cs.brown.edu/author/peter-r.-wurman/index.xml" rel="self" type="application/rss+xml" />
+    <link>glamor.cs.brown.edu/author/peter-r.-wurman/</link>
+      <atom:link href="glamor.cs.brown.edu/author/peter-r.-wurman/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter R. Wurman</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Peter R. Wurman</title>
-      <link>https://glamor.cs.brown.edu/author/peter-r.-wurman/</link>
+      <link>glamor.cs.brown.edu/author/peter-r.-wurman/</link>
     </image>
     
     <item>
       <title>The 2001 Trading Agent Competition</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2001 Trading Agent Competition</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confaaai-wellman-gsw-02/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confaaai-wellman-gsw-02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confaaai-wellman-gsw-02/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confaaai-wellman-gsw-02/</guid>
       <description></description>
     </item>
     

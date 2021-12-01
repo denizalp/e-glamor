@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elizabeth M. Hilliard | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu/author/elizabeth-m.-hilliard/</link>
-      <atom:link href="https://glamor.cs.brown.edu/author/elizabeth-m.-hilliard/index.xml" rel="self" type="application/rss+xml" />
+    <link>glamor.cs.brown.edu/author/elizabeth-m.-hilliard/</link>
+      <atom:link href="glamor.cs.brown.edu/author/elizabeth-m.-hilliard/index.xml" rel="self" type="application/rss+xml" />
     <description>Elizabeth M. Hilliard</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Elizabeth M. Hilliard</title>
-      <link>https://glamor.cs.brown.edu/author/elizabeth-m.-hilliard/</link>
+      <link>glamor.cs.brown.edu/author/elizabeth-m.-hilliard/</link>
     </image>
     
     <item>
       <title>An Algorithm for the Penalized Multiple Choice Knapsack Problem</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confecai-hilliard-gn-14/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confecai-hilliard-gn-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confecai-hilliard-gn-14/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confecai-hilliard-gn-14/</guid>
       <description></description>
     </item>
     

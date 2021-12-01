@@ -5,7 +5,7 @@
 
 main:
   - name: People
-    url: '#People'
+    url: '#people'
     weight: 10
   - name: Publications
     url: '#publications'

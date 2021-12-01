@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric Sodomka | E-GLAMOR</title>
-    <link>https://glamor.cs.brown.edu/author/eric-sodomka/</link>
-      <atom:link href="https://glamor.cs.brown.edu/author/eric-sodomka/index.xml" rel="self" type="application/rss+xml" />
+    <link>glamor.cs.brown.edu/author/eric-sodomka/</link>
+      <atom:link href="glamor.cs.brown.edu/author/eric-sodomka/index.xml" rel="self" type="application/rss+xml" />
     <description>Eric Sodomka</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/glamor.cs.brown.edu/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Eric Sodomka</title>
-      <link>https://glamor.cs.brown.edu/author/eric-sodomka/</link>
+      <link>glamor.cs.brown.edu/author/eric-sodomka/</link>
     </image>
     
     <item>
       <title>Self-confirming price-prediction strategies for simultaneous one-shot auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-journalsgeb-wellman-sg-17/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-journalsgeb-wellman-sg-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-journalsgeb-wellman-sg-17/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-journalsgeb-wellman-sg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Analysis of QuiBids&#39; Penny Auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confamec-greenwald-ssss-14/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confamec-greenwald-ssss-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confamec-greenwald-ssss-14/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confamec-greenwald-ssss-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accounting for Price Dependencies in Simultaneous Sealed-Bid Auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confaaai-mayer-sgw-13/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confaaai-mayer-sgw-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confaaai-mayer-sgw-13/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confaaai-mayer-sgw-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accounting for price dependencies in simultaneous sealed-bid auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confsigecom-mayer-sgw-13/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confsigecom-mayer-sgw-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confsigecom-mayer-sgw-13/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confsigecom-mayer-sgw-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coco-Q: Learning in Stochastic Games with Side Payments</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-conficml-sodomka-hlg-13/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-conficml-sodomka-hlg-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-conficml-sodomka-hlg-13/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-conficml-sodomka-hlg-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical Analysis of Auctioneer Profitability in QuiBids Penny Auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confaaai-greenwald-ssss-13/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confaaai-greenwald-ssss-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confaaai-greenwald-ssss-13/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confaaai-greenwald-ssss-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The price of independence in simultaneous auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confatal-mayer-sg-13/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confatal-mayer-sg-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confatal-mayer-sg-13/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confatal-mayer-sg-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximating Equilibria in Sequential Auctions with Incomplete Information and Multi-Unit Demand</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confnips-greenwald-ls-12/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confnips-greenwald-ls-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confnips-greenwald-ls-12/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confnips-greenwald-ls-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JACK: A Java Auction Configuration Kit</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confamec-goff-ghkls-12/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confamec-goff-ghkls-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confamec-goff-ghkls-12/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confamec-goff-ghkls-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Confirming Price Prediction Strategies for Simultaneous One-Shot Auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confuai-wellman-sg-12/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confuai-wellman-sg-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confuai-wellman-sg-12/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confuai-wellman-sg-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Confirming Price Prediction Strategies for Simultaneous One-Shot Auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-journalscorrabs-1210-4915/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1210-4915/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-journalscorrabs-1210-4915/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-journalscorrabs-1210-4915/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Knapsack-Based Approach to Bidding in Ad Auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confecai-berg-gns-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rank and Impression Estimation in a Stylized Model of Ad Auctions</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confamec-berg-cgs-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marginal Bidding: An Application of the Equimarginal Principle to Bidding in TAC SCM</title>
-      <link>https://glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</link>
+      <link>glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</guid>
+      <guid>glamor.cs.brown.edu/publication/dblp-confatal-greenwald-norszc-07/</guid>
       <description></description>
     </item>
     
