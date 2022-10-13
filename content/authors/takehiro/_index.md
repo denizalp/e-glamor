@@ -12,5 +12,5 @@ role: Ph.D. Student
 social:
 superuser: true
 user_groups:
-- Ph.D. Students
+- Alumni
 ---

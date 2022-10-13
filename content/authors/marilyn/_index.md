@@ -24,6 +24,6 @@ social:
   icon_pack: fa
   link: 'mailto:marilyn_george@brown.edu'
 user_groups:
-- Ph.D. Students
+- Alumni
 ---
 In the modern world, the security of personal data has become increasingly important. The major corporate players controlling user data are profit-making rational entities. In this setting, Marilyn's research deals with the effects of rational assumptions on practical cryptographic protocols in terms of their efficiency and security. Marilyn is also interested in Stackelberg security games and their applications in cryptographic settings.
