@@ -5,12 +5,68 @@
     <link>/author/takehiro-oyakawa/</link>
       <atom:link href="/author/takehiro-oyakawa/index.xml" rel="self" type="application/rss+xml" />
     <description>Takehiro Oyakawa</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/takehiro-oyakawa/avatar_hu23d062051bb845eb35745ce76d6d4547_18711_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Takehiro Oyakawa</title>
       <link>/author/takehiro-oyakawa/</link>
     </image>
+    
+    <item>
+      <title>A Dynamic Program for Computing the Joint Cumulative Distribution Function of Order Statistics</title>
+      <link>/publication/dblp-confacda-galgana-sgo-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confacda-galgana-sgo-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dynamic Programming Algorithm to Compute Joint Distribution of Order Statistics on Graphs</title>
+      <link>/publication/dblp-journalscorrabs-2111-10939/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2111-10939/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Algorithms for Computing Interim Allocations in Single-Parameter Environments</title>
+      <link>/publication/dblp-confprima-greenwald-lo-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confprima-greenwald-lo-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Revenue-Maximizing Mechanisms Assuming Convex Costs</title>
+      <link>/publication/dblp-confsagt-greenwald-os-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confsagt-greenwald-os-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple vs Optimal Contests with Convex Costs</title>
+      <link>/publication/dblp-confwww-greenwald-os-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confwww-greenwald-os-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple vs Optimal Mechanisms in Auctions with Convex Payments</title>
+      <link>/publication/dblp-journalscorr-greenwald-os-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorr-greenwald-os-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Auctions with Convex Perceived Payments</title>
+      <link>/publication/dblp-journalscorr-greenwald-os-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorr-greenwald-os-16/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
