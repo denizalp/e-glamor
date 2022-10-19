@@ -13,8 +13,7 @@ education:
 email: "denizalp_goktas@brown.edu"
 interests:
 - Artificial Intelligence
-- Multi-Agent Systems
-- Reinforcement Learning
+- Multiagent Learning
 - Algorithmic Game Theory
 title: Denizalp Goktas
 organizations:

@@ -7,6 +7,7 @@ interests:
 - Artificial Intelligence 
 - Multi-Agent Systems
 - Reinforcement Learning
+- Market Design
 title: Gianluca Brero
 organizations:
 - name: Brown University
