@@ -4,7 +4,7 @@ authors:
 bio: 
 email: ""
 interests:
-name: Zhouqi Gong
+title: Zhouqi Gong
 organizations:
 - name: Brown University
   url: ""
